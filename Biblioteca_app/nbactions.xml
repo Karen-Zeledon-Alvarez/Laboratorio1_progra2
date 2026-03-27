@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-javafx_run</actionName>
+            <displayName>javafx_run</displayName>
+            <goals>
+                <goal>clean</goal>
+                <goal>javafx:run</goal>
+            </goals>
+        </action>
+        <action>
+            <actionName>CUSTOM-javafx</actionName>
+            <displayName>javafx</displayName>
+            <goals>
+                <goal>javafx:run</goal>
+            </goals>
+        </action>
+    </actions>
