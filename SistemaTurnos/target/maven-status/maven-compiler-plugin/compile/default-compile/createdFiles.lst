@@ -1,0 +1,9 @@
+modelo\Turno.class
+persistencia\MemoriaTurnoRepository.class
+com\app\sistematurnos\SistemaTurnos.class
+persistencia\ArchivoTurnoRepository.class
+persistencia\TurnoRepository.class
+persistencia\Historial.class
+servicio\TurnoService.class
+modelo\EstadoTurno.class
+persistencia\PersistenciaException.class
